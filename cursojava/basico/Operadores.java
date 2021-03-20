@@ -33,10 +33,7 @@ public class Operadores {
         System.out.println(numero1*=10);
         System.out.println(numero1/=10);*/
 		
-		System.out.println(numero1 > numero2);
-		System.out.println(numero1 >= numero2);
-		System.out.println(numero1 < numero2);
-		System.out.println(numero1 <= numero2);
+		
 
 
         
